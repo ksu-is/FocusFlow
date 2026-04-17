@@ -1,16 +1,16 @@
 # FocusFlow
 FocusFlow - The Productivity Suite
 
-Vision
+## Vision
 In a time when there are so many distractions and the average student's attention span is very short. FocusFlow is not only just a timer; it's a desktop productivity suite made for students who need help getting from "sitting down to work" to "actually getting things done."
 The software uses the scientifically proven Pomodoro Technique, which breaks work into 25-minute "sprints" with 5-minute breaks in between, to keep your brain working at a high level. FocusFlow, on the other hand, goes a step further by adding session tracking and color-coded psychological cues to help users see how far they've come and develop a regular study habit.
 
-Who is it for 
+## Who is it for 
 •	Students: High school and college students managing heavy course loads (like Algebra, Precalculus, or Programming) who need a structured way to stay focused.
 •	Self-Learners: Individuals teaching themselves new skills who struggle with time management.
 •	Remote Workers: Professionals who need a clear boundary between "work time" and "rest time" in a home environment.
 
-Features & Functionality
+## Features & Functionality
 
 FocusFlow is built using Python’s Tkinter library for a lightweight, native desktop experience. Key features include:
 1.	Dynamic Timer Engine: A high-precision countdown timer that alternates between work sessions, short breaks, and long breaks automatically. It utilizes the after() method in Tkinter to
@@ -27,7 +27,7 @@ FocusFlow is built using Python’s Tkinter library for a lightweight, native de
 How many people can work on this project:One
 
 
-Similar projects/guides
+## Similar projects/guides
 
 https://www.tutorialspoint.com/article/create-a-pomodoro-using-python-tkinter
 
