@@ -1,9 +1,9 @@
 Phase 1: The Core Math (Logic)
-- [ ] Create the Countdown: Write a function that takes a number of seconds and prints the countdown in your terminal.
+- [x] Create the Countdown: Write a function that takes a number of seconds and prints the countdown in your terminal.
 
-- [ ] The "MM:SS" Converter: Use floor division (//) and modulo (%) to format seconds into minutes and seconds.
+- [x] The "MM:SS" Converter: Use floor division (//) and modulo (%) to format seconds into minutes and seconds.
 
-- [ ] The Break Switch: Write an if/else statement that switches between 1500 seconds (25 mins) and 300 seconds (5 mins).
+- [x] The Break Switch: Write an if/else statement that switches between 1500 seconds (25 mins) and 300 seconds (5 mins).
 
 Phase 2: The Window (GUI Skeleton)
 - [ ] Import Tkinter: Start your script with import tkinter.
